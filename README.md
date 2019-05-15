@@ -8,7 +8,7 @@ Our findings suggest that calibration can improve the performance and sample com
 
 ## Citations
 
-Code based heavily on https://github.com/kchua/handful-of-trials/. For running instructions and configuration arguments, see this repo.
+Code based heavily on https://github.com/kchua/handful-of-trials/. For running instructions and configuration arguments, see that repo.
 
 
 ## Running Experiments
